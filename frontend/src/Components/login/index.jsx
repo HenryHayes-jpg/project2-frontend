@@ -1,3 +1,4 @@
-import "../login/style.scss";
-export {Login} from "./login";
-export {Signup} from "./signup"
+import "./style.scss";
+
+export { Login } from "./login";
+export { Signup } from "./signup";
